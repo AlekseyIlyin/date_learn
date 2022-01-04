@@ -42,5 +42,8 @@ public class Main {
         System.out.println(new Timestamp(dateMs2));
         System.out.println("---------");
         System.out.println();
+
+        System.out.println("---------");
+        System.out.println("---------");
     }
 }
